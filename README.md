@@ -44,7 +44,7 @@ Scikit-Learn Iris Dataset
 
 ## OUTPUT
 
-<img width="1876" height="925" alt="Image" src="https://github.com/user-attachments/assets/8fbe19a8-a988-4611-bd58-246108f2883f" />
-<img width="1903" height="985" alt="Image" src="https://github.com/user-attachments/assets/188bc568-f84b-4e94-ba27-4e75037ef56b" />
-<img width="1892" height="979" alt="Image" src="https://github.com/user-attachments/assets/e78b60c6-44e2-4e6d-9aad-cb8b1f1927b0" />
-<img width="1884" height="980" alt="Image" src="https://github.com/user-attachments/assets/18f0aac1-c2c2-4f4b-83d5-c9b5bd074c73" />
+<img width="1903" height="1028" alt="Image" src="https://github.com/user-attachments/assets/ce97f916-5d6a-44ba-8f48-bf7a205a657f" />
+<img width="1886" height="1029" alt="Image" src="https://github.com/user-attachments/assets/97575d3e-f460-4b05-8482-649d9f70429d" />
+<img width="1871" height="1022" alt="Image" src="https://github.com/user-attachments/assets/6e387ad8-bad3-47d8-bd0e-ab57ae3423db" />
+<img width="1890" height="1017" alt="Image" src="https://github.com/user-attachments/assets/ac5b64fd-83e1-44d4-be6a-1d6549ed8cb5" />
